@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/12 19:44:48.000.809,=C:\Users\rafae\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/10/12 19:46:10.000.294,=C:\Users\rafae\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/10/13 12:42:25.000.626,=C:\Users\rafae\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/10/13 12:45:33.000.372,I:\Meu Drive\Projetos\snizerhiit\Unit1.fmx=C:\Users\rafae\Documents\Embarcadero\Studio\Projects\Unit6.fmx</Transaction>
+    <Transaction>2018/10/13 12:45:33.000.372,I:\Meu Drive\Projetos\snizerhiit\Unit1.pas=C:\Users\rafae\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/10/13 13:34:50.000.440,I:\Meu Drive\Projetos\snizerhiit\Project6.dproj=C:\Users\rafae\Documents\Embarcadero\Studio\Projects\Project6.dproj</Transaction>
+    <Transaction>2018/10/17 11:32:53.471,=I:\Meu Drive\Projetos\snizerhiit\Unit2.pas</Transaction>
+    <Transaction>2018/10/17 11:47:53.788,I:\Meu Drive\Projetos\snizerhiit\treinarFrame.fmx=I:\Meu Drive\Projetos\snizerhiit\Unit2.fmx</Transaction>
+    <Transaction>2018/10/17 11:47:53.788,I:\Meu Drive\Projetos\snizerhiit\treinarFrame.pas=I:\Meu Drive\Projetos\snizerhiit\Unit2.pas</Transaction>
+    <Transaction>2018/10/17 12:05:54.376,=I:\Meu Drive\Projetos\snizerhiit\Unit2.pas</Transaction>
+    <Transaction>2018/10/17 13:28:56.909,I:\Meu Drive\Projetos\snizerhiit\dashboardFrame.fmx=I:\Meu Drive\Projetos\snizerhiit\Unit2.fmx</Transaction>
+    <Transaction>2018/10/17 13:28:56.909,I:\Meu Drive\Projetos\snizerhiit\dashboardFrame.pas=I:\Meu Drive\Projetos\snizerhiit\Unit2.pas</Transaction>
+    <Transaction>2018/10/18 12:00:26.020,=I:\Meu Drive\Projetos\snizerhiit\Unit2.pas</Transaction>
+    <Transaction>2018/10/18 12:31:26.596,I:\Meu Drive\Projetos\snizerhiit\gettingstartedFrame.fmx=I:\Meu Drive\Projetos\snizerhiit\Unit2.fmx</Transaction>
+    <Transaction>2018/10/18 12:31:26.596,I:\Meu Drive\Projetos\snizerhiit\gettingstartedFrame.pas=I:\Meu Drive\Projetos\snizerhiit\Unit2.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="Maquina"/>
+	</ActiveMobileDevice>
+</BorlandProject>
