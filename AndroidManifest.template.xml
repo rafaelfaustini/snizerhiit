@@ -16,7 +16,7 @@
         android:debuggable="%debuggable%" 
         android:largeHeap="%largeHeap%"
         android:icon="%icon%"
-        android:theme="%theme%"
+        android:theme="@style/MyTheme.NoTitleBar.SplashWindow"
         android:hardwareAccelerated="%hardwareAccelerated%">
 
 <%application-meta-data%>
